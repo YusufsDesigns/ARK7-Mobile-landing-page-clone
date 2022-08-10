@@ -1,3 +1,3 @@
-# ARK7 - mobile landing page clone
+# ARK7 - Mobile landing page clone
 
 ![](/img/showcase.png)
